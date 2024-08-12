@@ -10,7 +10,9 @@ require (
 )
 
 require (
+	github.com/montanaflynn/stats v0.7.1 // indirect
 	github.com/neurosnap/sentences v1.0.6 // indirect
+	github.com/shogo82148/go-shuffle v1.0.1 // indirect
 	github.com/stretchr/testify v1.6.1 // indirect
 	golang.org/x/text v0.17.0 // indirect
 	gopkg.in/neurosnap/sentences.v1 v1.0.6 // indirect
