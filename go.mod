@@ -10,10 +10,13 @@ require (
 )
 
 require (
+	github.com/deckarep/golang-set v1.7.1 // indirect
+	github.com/jdkato/prose/v2 v2.0.0 // indirect
 	github.com/montanaflynn/stats v0.7.1 // indirect
 	github.com/neurosnap/sentences v1.0.6 // indirect
 	github.com/shogo82148/go-shuffle v1.0.1 // indirect
 	github.com/stretchr/testify v1.6.1 // indirect
 	golang.org/x/text v0.17.0 // indirect
+	gonum.org/v1/gonum v0.7.0 // indirect
 	gopkg.in/neurosnap/sentences.v1 v1.0.6 // indirect
 )
